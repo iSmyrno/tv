@@ -1,5 +1,5 @@
-﻿#EXTM3U
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tele Caraibe"  group-title="Haiti",Tele Caraibe
+#EXTM3U
+#EXTINF:-1, tvg-name="New EPG" tvg-logo="New Logo" tvg-name="Tele Caraibe"  group-title="Haiti",Tele Caraibe
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpiWKAgVbTdnS8lrneWXvoF0)/dm/3/x81lgjh/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tele Haiti"  group-title="Haiti",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist_w1749202216.m3u8
@@ -60,7 +60,7 @@ https://list.iptvcat.com/my_list/s/d520a368ee0508991aebc928818a7358.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA SD"  group-title="Sport",Bein Sport 2 USA SD
 https://list.iptvcat.com/my_list/s/5df37d68789f59d3a76a7bd34e3c313a.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA"  group-title="Sport",Bein Sport 3 USA
- https://list.iptvcat.com/my_list/s/8a1286b222d120b72ebba7c1450033cf.m3u8
+https://list.iptvcat.com/my_list/s/8a1286b222d120b72ebba7c1450033cf.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA HD"  group-title="Sport",Bein Sport 3 USA HD
 https://list.iptvcat.com/my_list/s/a22c75fa93f71fadb6564182749676ea.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA SD"  group-title="Sport",Bein Sport 3 USA SD
