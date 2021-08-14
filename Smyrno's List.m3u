@@ -1,87 +1,130 @@
 #EXTM3U
-#EXTINF:-1, tvg-name="New EPG" tvg-logo="New Logo" tvg-name="Tele Caraibe"  group-title="Haiti",Tele Caraibe
+
+#EXTINF:-1, tvg-id="" tvg-name="Tele Caraibe" tvg-logo="New Logo" tvg-name="Tele Caraibe"  group-title="Haiti",Tele Caraibe
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpiWKAgVbTdnS8lrneWXvoF0)/dm/3/x81lgjh/d/live-2.m3u8#cell=lnyc
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tele Haiti"  group-title="Haiti",Tele Haiti
+
+#EXTINF:-1, tvg-id="" tvg-name="Tele Haiti" tvg-logo="New Logo" tvg-name="Tele Haiti"  group-title="Haiti",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist_w1749202216.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tele Louang"  group-title="Haiti",Tele Louang
+
+#EXTINF:-1, tvg-id="" tvg-name="Tele Louang" tvg-logo="New Logo" tvg-name="Tele Louang"  group-title="Haiti",Tele Louang
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Kajou Tele"  group-title="Haiti",Kajou Tele
+
+#EXTINF:-1, tvg-id="" tvg-name="Kajou Tele" tvg-logo="New Logo" tvg-name="Kajou Tele"  group-title="Haiti",Kajou Tele
 https://video1.getstreamhosting.com:1936/8055/8055/chunklist_w1096835871.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="radio-tele-puissance"  group-title="Haiti",radio-tele-puissance
+
+#EXTINF:-1, tvg-id="" tvg-name="radio tele puissance" tvg-logo="New Logo" tvg-name="radio tele puissance"  group-title="Haiti",radio-tele-puissance
 https://video1.getstreamhosting.com:1936/8560/8560/chunklist_w57624468.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Island TV"  group-title="Haiti",Island TV
+
+##EXTINF:-1, tvg-id="" tvg-name="Island TV" tvg-logo="New Logo" tvg-name="Island TV"  group-title="Haiti",Island TV
 https://playback2.akamaized.net/streams/30299049_9486754_lsioh1ktd56r1bzhxgn_1/exp=1629009561~acl=%2f*~data=hdntl~hmac=ddb834a44104b4cd33fafaea626f2b689b56554a36c36472ce1564b3d9e0a447/media/30299049_9486754_lsioh1ktd56r1bzhxgn_1@5256000p.m3u8?dw=80&ts=1628920800
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DBM TV"  group-title="Haiti",DBM TV
+
+#EXTINF:-1, tvg-id="" tvg-name="DBM TV" tvg-logo="New Logo" tvg-name="DBM TV"  group-title="Haiti",DBM TV
 https://stream-02.nyc.dailymotion.com/sec(SVqA1Jy8rds-vM482iNMuDol_qQ1duGmHdiWMQEA3aE)/dm/3/x5qokx5/s/live-1.m3u8#cell=lnyc
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MyComedyTV"  group-title="Haiti",MyComedyTV
+
+#EXTINF:-1, tvg-id="" tvg-name="MyComedyTV" tvg-logo="New Logo" tvg-name="MyComedyTV"  group-title="Haiti",MyComedyTV
 https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzf4BWD7KAJITWyMaqFx4yg)/dm/3/x7zw8t0/s/live-1.m3u8#cell=lnyc
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TMA TV"  group-title="Haiti",TMA TV
+
+#EXTINF:-1, tvg-id="" tvg-name="TMA TV" tvg-logo="New Logo" tvg-name="TMA TV"  group-title="Haiti",TMA TV
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nago TV"  group-title="Haiti",Nago TV
+
+#EXTINF:-1, tvg-id="" tvg-name="Nago TV" tvg-logo="New Logo" tvg-name="Nago TV"  group-title="Haiti",Nago TV
 https://www.dailymotion.com/cdn/live/video/x72rkvx.m3u8?sec=rCzQoizZWZSp1GgLZv2zA4fPcVxIGILwk_n8qBw35UHqrZUZJFSBrZmyEdd8BdeaEWhWwgy1hrN04_VykIdM8w
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport 1"  group-title="Sport",France Bein Sport 1
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport 1" tvg-logo="New Logo" tvg-name="France Bein Sport 1"  group-title="Sport",France Bein Sport 1
 https://list.iptvcat.com/my_list/s/8bc790fc575e798f6cfc8f905936b28a.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport 1 HD"  group-title="Sport",France Bein Sport 1 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport 1 HD" tvg-logo="New Logo" tvg-name="France Bein Sport 1 HD"  group-title="Sport",France Bein Sport 1 HD
 https://list.iptvcat.com/my_list/s/acf9066bb288ad81483b7788aa225b33.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport 2"  group-title="Sport",France Bein Sport 2
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport 2" tvg-logo="New Logo" tvg-name="France Bein Sport 2"  group-title="Sport",France Bein Sport 2
 https://list.iptvcat.com/my_list/s/c691ba393f5c10b27b5ffb81ae9857d2.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport 2 HD"  group-title="Sport",France Bein Sport 2 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport 2 HD" tvg-logo="New Logo" tvg-name="France Bein Sport 2 HD"  group-title="Sport",France Bein Sport 2 HD
 https://list.iptvcat.com/my_list/s/685dafd1b797e304ff7d9bc35dc34949.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport 3"  group-title="Sport",France Bein Sport 3
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport 3" tvg-logo="New Logo" tvg-name="France Bein Sport 3"  group-title="Sport",France Bein Sport 3
 https://list.iptvcat.com/my_list/s/64d207553267c21fb79d085daf5bba71.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport Max 10 HD"  group-title="Sport",France Bein Sport Max 10 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport Max 10 HD" tvg-logo="New Logo" tvg-name="France Bein Sport Max 10 HD"  group-title="Sport",France Bein Sport Max 10 HD
 https://list.iptvcat.com/my_list/s/8dcdd6d1a3de5a1ad55dac405750af60.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport Max 5 HD"  group-title="Sport",France Bein Sport Max 5 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="NFrance Bein Sport Max 5 HD" tvg-logo="New Logo" tvg-name="France Bein Sport Max 5 HD"  group-title="Sport",France Bein Sport Max 5 HD
 https://list.iptvcat.com/my_list/s/d3c6c7cac329a1dc44faaa72a3634eed.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport Max 6 HD"  group-title="Sport",France Bein Sport Max 6 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport Max 6 HD" tvg-logo="New Logo" tvg-name="France Bein Sport Max 6 HD"  group-title="Sport",France Bein Sport Max 6 HD
 https://list.iptvcat.com/my_list/s/b95ec4b756dae2017d6a2e47f81e241b.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport Max 7 HD"  group-title="Sport",France Bein Sport Max 7 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="France Bein Sport Max 7 HD" tvg-logo="New Logo" tvg-name="France Bein Sport Max 7 HD"  group-title="Sport",France Bein Sport Max 7 HD
 https://list.iptvcat.com/my_list/s/10f5c54100b3ba85a3598c804945b9ee.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="France Bein Sport Max 9 HD"  group-title="Sport",France Bein Sport Max 9 HD
+
+#EXTINF:-1, tvg-id="" tvg-name="NFrance Bein Sport Max 9 HD" tvg-logo="New Logo" tvg-name="France Bein Sport Max 9 HD"  group-title="Sport",France Bein Sport Max 9 HD
 https://list.iptvcat.com/my_list/s/c137944e550d40f58f1a126351c03cf0.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sports ES"  group-title="Sport",Bein Sports ES
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sports ES" tvg-logo="New Logo" tvg-name="Bein Sports ES"  group-title="Sport",Bein Sports ES
 https://list.iptvcat.com/my_list/s/3024caee7c0ae4ff2b7fedbcbb051066.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport USA HD"  group-title="Sport",Bein Sport USA HD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport USA HD" tvg-logo="New Logo" tvg-name="Bein Sport USA HD"  group-title="Sport",Bein Sport USA HD
 https://list.iptvcat.com/my_list/s/b4a28d008fcb4c25ac1a375cbf65153c.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport USA Spanish"  group-title="Sport",Bein Sport USA Spanish
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport USA Spanish" tvg-logo="New Logo" tvg-name="Bein Sport USA Spanish"  group-title="Sport",Bein Sport USA Spanish
 https://list.iptvcat.com/my_list/s/5798975b4715f1a18e2c609cf8ac327f.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein SPort Connect La liga"  group-title="Sport",Bein SPort Connect La liga
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein SPort Connect La liga" tvg-logo="New Logo" tvg-name="Bein SPort Connect La liga"  group-title="Sport",Bein SPort Connect La liga
 https://list.iptvcat.com/my_list/s/7789491b666ecd7fcd76241ba310f87e.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA"  group-title="Sport",Bein Sport 1 USA
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 1 USA" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA"  group-title="Sport",Bein Sport 1 USA
 https://list.iptvcat.com/my_list/s/27bd92e1443ba83428211c0813dc037b.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA HD"  group-title="Sport",Bein Sport 1 USA HD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 1 USA HD" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA HD"  group-title="Sport",Bein Sport 1 USA HD
 https://list.iptvcat.com/my_list/s/b894def71a9241555c1c54501af001f7.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA SD"  group-title="Sport",Bein Sport 1 USA SD
+
+#EXTINF:-1, tvg-id="" tvg-name="NBein Sport 1 USA SD" tvg-logo="New Logo" tvg-name="Bein Sport 1 USA SD"  group-title="Sport",Bein Sport 1 USA SD
 https://list.iptvcat.com/my_list/s/b894def71a9241555c1c54501af001f7.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA "  group-title="Sport",Bein Sport 2 USA 
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 2 USA" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA"  group-title="Sport",Bein Sport 2 USA 
 https://list.iptvcat.com/my_list/s/0d3ead02295104c0129edc428f97c48c.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA HD"  group-title="Sport",Bein Sport 2 USA HD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 2 USA HD" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA HD"  group-title="Sport",Bein Sport 2 USA HD
 https://list.iptvcat.com/my_list/s/d520a368ee0508991aebc928818a7358.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA SD"  group-title="Sport",Bein Sport 2 USA SD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 2 USA SD" tvg-logo="New Logo" tvg-name="Bein Sport 2 USA SD"  group-title="Sport",Bein Sport 2 USA SD
 https://list.iptvcat.com/my_list/s/5df37d68789f59d3a76a7bd34e3c313a.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA"  group-title="Sport",Bein Sport 3 USA
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 3 USA" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA"  group-title="Sport",Bein Sport 3 USA
 https://list.iptvcat.com/my_list/s/8a1286b222d120b72ebba7c1450033cf.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA HD"  group-title="Sport",Bein Sport 3 USA HD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 3 USA HD" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA HD"  group-title="Sport",Bein Sport 3 USA HD
 https://list.iptvcat.com/my_list/s/a22c75fa93f71fadb6564182749676ea.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA SD"  group-title="Sport",Bein Sport 3 USA SD
+
+#EXTINF:-1, tvg-id="" tvg-name="Bein Sport 3 USA SD" tvg-logo="New Logo" tvg-name="Bein Sport 3 USA SD"  group-title="Sport",Bein Sport 3 USA SD
 https://list.iptvcat.com/my_list/s/a22c75fa93f71fadb6564182749676ea.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBA TV"  group-title="Sport",NBA TV
+
+#EXTINF:-1, tvg-id="" tvg-name="NBA TV" tvg-logo="New Logo" tvg-name="NBA TV"  group-title="Sport",NBA TV
 https://list.iptvcat.com/my_list/s/72b592ae23cac14e39de414b0fe9a87c.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC"  group-title="Sport",ABC
+
+#EXTINF:-1, tvg-id="" tvg-name="ABC" tvg-logo="New Logo" tvg-name="ABC"  group-title="Sport",ABC
 https://list.iptvcat.com/my_list/s/f773ed1b0e2ab985c48550b3db4b0ab9.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS HD"  group-title="Sport",CBS HD
+
+#EXTINF:-1, tvg-id="" tvg-name="CBS HD" tvg-logo="New Logo" tvg-name="CBS HD"  group-title="Sport",CBS HD
 https://list.iptvcat.com/my_list/s/ede1b77924615fb1ca0d51cf20243bbe.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN ES HD"  group-title="Sport",ESPN ES HD
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN ES HD" tvg-logo="New Logo" tvg-name="ESPN ES HD"  group-title="Sport",ESPN ES HD
 https://list.iptvcat.com/my_list/s/8d6f9c8f2bdb476dd84dcea0629c82b2.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN USA"  group-title="Sport",ESPN USA
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN USA" tvg-logo="New Logo" tvg-name="ESPN USA"  group-title="Sport",ESPN USA
 https://list.iptvcat.com/my_list/s/a05f2558af4996bb08b4bca4b02a43ce.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN + HD"  group-title="Sport",ESPN + HD
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN + HD" tvg-logo="New Logo" tvg-name="ESPN + HD"  group-title="Sport",ESPN + HD
 https://list.iptvcat.com/my_list/s/829a283e7f4bff3c066414198574c2bd.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN 1 USA"  group-title="Sport",ESPN 1 USA
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 1 USA" tvg-logo="New Logo" tvg-name="ESPN 1 USA"  group-title="Sport",ESPN 1 USA
 https://list.iptvcat.com/my_list/s/2a81a8b1bba1a6cf0f3bc77a2c2f9a0c.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN 2 USA"  group-title="Sport",ESPN 2 USA
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="New Logo" tvg-name="ESPN 2 USA"  group-title="Sport",ESPN 2 USA
 https://list.iptvcat.com/my_list/s/2dfa01ac62cb6b179d5b63c8ebbc8c0d.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN 3"  group-title="Sport",ESPN 3
+
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 3" tvg-logo="New Logo" tvg-name="ESPN 3"  group-title="Sport",ESPN 3
 https://list.iptvcat.com/my_list/s/0fa4b9d5753ee86ea273f53e3c27d8e3.m3u8
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Tele Boston"  group-title="Haiti",Tele Boston
+
+#EXTINF:-1, tvg-name="Tele Boston" tvg-logo="New Logo" tvg-name="Tele Boston"  group-title="Haiti",Tele Boston
 https://list.iptvcat.com/my_list/s/cf025e002703ca83f33385025b876dcb.m3u8
