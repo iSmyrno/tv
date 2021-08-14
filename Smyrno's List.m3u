@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="" tvg-name="Tele Caraibe" tvg-logo="" tvg-name="Tele Caraibe" group-title="Haiti",Tele Caraibe
+#EXTINF:-1, tvg-id="haititelevision.com" tvg-name="Tele Caraibe" tvg-logo="" tvg-name="Tele Caraibe" group-title="Haiti",Tele Caraibe
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpiWKAgVbTdnS8lrneWXvoF0)/dm/3/x81lgjh/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1, tvg-id="" tvg-name="Tele Haiti" tvg-logo="" tvg-name="Tele Haiti" group-title="Haiti",Tele Haiti
